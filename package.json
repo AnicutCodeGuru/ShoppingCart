@@ -7,15 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AnicutCodeGuru/ShoppingCart.git"
+    "type": "git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AnicutCodeGuru/ShoppingCart/issues"
-  },
-  "homepage": "https://github.com/AnicutCodeGuru/ShoppingCart#readme",
   "dependencies": {
     "angular": "^1.6.6",
     "angular-route": "^1.6.6",
